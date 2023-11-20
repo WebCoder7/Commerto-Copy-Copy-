@@ -1,0 +1,470 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: o;
+    text-decoration: none;
+    list-style: none;
+}
+
+nav {
+    margin-top: 30px;
+    margin-bottom: 170px;
+
+}
+
+header {
+    margin-bottom: 100px;
+}
+
+.list {
+    display: flex;
+    justify-content: end;
+    gap: 30px;
+
+}
+
+.list_iteam {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.list_iteam:hover {
+    color: blue;
+}
+
+.new {
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 70px;
+    /* 140% */
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+}
+
+.slack {
+    color: #D81B60;
+}
+
+.lorem {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+}
+
+.btn1 {
+    padding: 14px 28px;
+    border-radius: 5px;
+    background: #4A99D3;
+    color: #fff;
+    border: none;
+}
+
+.btn2 {
+    padding: 14px 28px;
+    border-radius: 5px;
+    background: #4A99D3;
+    color: #fff;
+    border: none;
+    margin-left: 20px;
+}
+
+.phone {
+    margin-left: 100px;
+    margin-top: -100px;
+}
+
+.what {
+    color: #260041;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 46px;
+    letter-spacing: 1.8px;
+    margin-bottom: 80px;
+}
+
+.carb {
+    background-color: #FFFFFF;
+    padding-top: 40px;
+    width: 380px;
+    height: 525px;
+    border-radius: 15px;
+    background: #FFF;
+    box-shadow: 5px 20px 50px 0px rgba(74, 153, 211, 0.20);
+    margin-bottom: 30px;
+}
+
+.faol {
+    text-align: center;
+}
+
+.recive {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0.4px;
+    padding-top: 50px;
+    padding-bottom: 16px;
+}
+
+.lorems {
+    padding-bottom: 60px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.card_texts {
+    margin-left: 55px;
+}
+
+.learn {
+    color: #4A99D3;
+    font-family: Objective;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    /* 214.286% */
+    letter-spacing: 0.7px;
+}
+
+.person2 {
+    width: 200px;
+    height: 127px;
+    flex-shrink: 0;
+}
+
+.how {
+    padding-top: 95px;
+    margin-bottom: 88px;
+    color: #4A99D3;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.creat {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 30px;
+    padding-bottom: 0;
+}
+
+.impuls {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.imgsmile {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.our {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 85px;
+    margin-bottom: 11px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.paragraf {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.marks {
+    margin-top: 150px;
+}
+
+
+.angel {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 50px;
+}
+
+.cilent {
+    margin-bottom: 160px;
+
+}
+
+
+.down {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 15px;
+}
+
+
+.amet {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 56px;
+}
+
+.google {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.quic {
+    color: #FFF;
+    font-size: 18px;
+    margin-bottom: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.sing {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+    padding-bottom: 15px;
+}
+
+.subscribe {
+    color: #FFF;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.volt {
+    color: #ffff;
+    border: 1px solid;
+    margin-bottom: 30px;
+}
+
+.pro {
+    color: #FFF;
+    font-size: 10.41px;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+
+.iconwhite {
+    color: white;
+    font-size: 23px;
+    margin-left: 10px;
+}
+
+.iconca {
+    display: flex;
+    justify-content: end;
+}
+
+
+
+
+
+/* 992 dan 1199 gacha */
+@media (max-width: 1199px) {}
+
+/* 768 dan 991 gacha */
+@media (max-width: 991px) {}
+
+/* 576 dan 767 gacha */
+@media (max-width: 767px) {}
+
+/* 0 dan 575 gacha */
+@media (max-width: 575px) {
+
+    * {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        text-decoration: none;
+        box-sizing: border-box;
+    }
+
+    .collage {
+        width: 30%;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    .new {
+        font-size: 39px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 49px;
+        letter-spacing: 1px;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+
+    .lorem {
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 28px;
+        text-align: center;
+    }
+
+    .buttons {
+        display: flex;
+        justify-content: center;
+    }
+
+
+    .phone {
+        margin-left: 92px;
+        margin-top: 24px;
+        width: 100%;
+    }
+    .what {
+        color: #260041;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 38px;
+        letter-spacing: -1.2px;
+        margin-bottom: 59px;
+        text-align: center;
+    }
+    .carb {
+        
+        background-color: #FFFFFF;
+        padding-top: 33px;
+        /* width: 390px; */
+        /* height: 521px
+    px
+    ; */
+        border-radius: 15px;
+        background: #FFF;
+        box-shadow: 5px 20px 50px 0px rgba(74, 153, 211, 0.20);
+        margin-bottom: 30px;
+
+    }
+    .fff{
+        display: flex;
+        justify-content: center;
+    }
+    .how {
+        padding-top: 63px;
+        margin-bottom: 66px;
+        color: #4A99D3;
+        text-align: center;
+        font-size: 35px;
+        font-weight: 700;
+        /* line-height: normal; */
+    }
+    .our {
+        text-align: center;
+        font-size: 36px;
+        margin-top: 45px;
+        margin-bottom: 45px;
+        font-weight: 700;
+        line-height: normal;
+    }
+    .imgcilent{
+        width: 100%;
+        text-align: center;
+        margin-bottom: 0;
+    }
+    .marks {
+        margin-top: 0;
+    }
+    .cilent {
+        margin-bottom: 30px;
+    }
+    .angel {
+        font-size: 20px;
+        font-weight: 700;
+        line-height: normal;
+        margin-top: 15px;
+    }
+    .phone {
+        width: 50%;
+        margin-left: 0;
+    }
+    .marko{
+        text-align: center;
+    }
+    .imgcut{
+        display: flex;
+        justify-content: center;
+    }
+    .macilt{
+        width: 100%;
+    }
+    .angel {
+        font-size: 20px;
+        font-weight: 700;
+        line-height: normal;
+        margin-top: 15px;
+        margin-bottom: 60px;
+    }
+    .google {
+        text-align: center;
+        margin-top: 40px;
+    }
+    .quic {
+        color: #FFF;
+        font-size: 20px;
+        margin-bottom: 23px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+    }
+    .sing {
+        color: #FFF;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 9px;
+        padding-bottom: 11px;
+    }
+    .quic {
+        color: #FFF;
+        font-size: 20px;
+        margin-bottom: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+    }
+    .tolipt{
+        margin-bottom: 50px;
+    }
+    .subscribe {
+        color: #FFF;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 22px;
+        margin-top: 20px;
+    }
+    .pro {
+        color: #FFF;
+        font-size: 10.41px;
+        font-weight: 700;
+        line-height: normal;
+    }
+    .iconwhite {
+        color: white;
+        font-size: 23px;
+        margin-top: -35px;
+    }
+}
